@@ -2,8 +2,8 @@
 - 👀 I’m interested in Proggraming/Developing
 - 🌱 I’m currently learning Programming
 - 😄 My pronouns are He/Him
-- ⚡ Fun fact, I'm somedimes like comedian
-- 
+- ⚡ Fun fact, I'm sometimes like comedian
+
 
 <!---
 RedMinerSk/RedMinerSk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
